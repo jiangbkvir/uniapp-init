@@ -5,6 +5,7 @@
 	        "^u-(.*)": "uview-plus/components/u-$1/u-$1.vue" 
 		}
 	},
+	// temp 修改1
 	"pages": [ 
 		{
 			"path": "pages/index/index",
