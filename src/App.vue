@@ -6,6 +6,7 @@ export default {
   onShow: function () {
     console.log('App Show')
     // deb分支修改
+    // deb分支修改1
   },
   onHide: function () {
     console.log('App Hide')
